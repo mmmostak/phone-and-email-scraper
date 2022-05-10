@@ -1,2 +1,2 @@
 # phone-and-email-scraper
- Scrap email address and phone number
+ A simple computer game to take quiz and evaluate scores in percentage.
